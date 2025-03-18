@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br><br>    🌱 I’m currently studying Java Institute For Advanced Technology Sri Lanka.<br><br>    🤝 I’m looking for help to Someone.<br><br>    💬 Ask me about anything<br><br>    📫 How to reach me himashashehan0813@gmail.com<br><br>    📄 Know about my experiences talk to me +94712767299<br><br>    ⚡ ~no legacy is so rich as honestly~<br>
+:<br><br>    🌱 I’m currently studying Java Institute For Advanced Technology Sri Lanka.<br><br>    🤝 I’m looking for help to Someone.<br><br>    💬 Ask me about anything<br><br>    📫 How to reach me himashashehan0813@gmail.com<br><br>    📄 Know about my experiences talk to me +94712767299<br><br>    ⚡ ~no legacy is so rich as honestly~<br>
 
 
 ## 🌐 Socials:
