@@ -15,9 +15,9 @@
 ```python
 class SoftwareEngineer:
     def __init__(self):
-        self.name = "Your Name"
+        self.name = "PM Himasha Shehan"
         self.role = "Full Stack Developer"
-        self.location = "Sri Lanka 🇱🇰"
+        self.location = "Gampaha,Sri Lanka 🇱🇰"
         self.languages = ["Java", "JavaScript", "PHP", "HTML", "CSS"]
         self.databases = ["MySQL"]
         self.tools = ["Git", "GitHub", "Jasper Reports", "HEDI"]
@@ -33,7 +33,7 @@ me.say_hello()
 <br>
 
 🔭 **Currently Working On:** Enterprise web applications with Java & PHP  
-🌱 **Learning:** Advanced Java frameworks, Modern JavaScript, Database optimization  
+🌱 **Learning:** Java Inastitiute Advance Techonology [BCU of UK]  
 💡 **Passionate About:** Clean code, problem-solving, and innovative solutions  
 🎯 **2024 Goals:** Contribute to open source, master full-stack development  
 ⚡ **Fun Fact:** I debug with rubber duck programming! 🦆  
