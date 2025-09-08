@@ -17,7 +17,7 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "PM Himasha Shehan"
         self.role = "Full Stack Developer"
-        self.location = "Negombo, Western Province, Sri Lanka 🇱🇰"
+        self.location = "Gampaha, Western Province, Sri Lanka 🇱🇰"
         self.education = "Java Institute Advanced Technology [BCU of UK]"
         self.languages = ["Java", "JavaScript", "Python", "PHP", "HTML", "CSS"]
         self.databases = ["MySQL", "HeidiSQL"]
